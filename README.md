@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtiram-ullah&label=Profile%20views&color=0e75b6&style=flat" alt="ehtiram-ullah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehtiram-ullah" alt="ehtiram-ullah" /></a> </p>
-
 - 💬 Ask me about **Flutter, Python**
 
 - 📫 How to reach me **ehtiramullah786@gmail.com**
