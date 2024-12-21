@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtiram-ullah&label=Profile%20views&color=0e75b6&style=flat" alt="ehtiram-ullah" /> </p>
 
-- 💬 Ask me about **Flutter, Python**
+- 💬 Ask me about **Flutter, Python** and **AI**
 
 - 📫 How to reach me **ehtiramullah786@gmail.com**
 
