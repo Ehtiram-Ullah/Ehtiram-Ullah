@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ehtiram Ullah</h1>
-<h3 align="center">A Passionate Cross-Platform App Developer From Pakistan.</h3>
+<h3 align="center">A Passionate ML Engineer & Cross-Platform App Developer From Pakistan :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtiram-ullah&label=Profile%20views&color=0e75b6&style=flat" alt="ehtiram-ullah" /> </p>
 
-- 💬 Ask me about **Flutter, Python** and **AI**
+- 💬 Ask me about **AI** and **Flutter, Python**
 
 - 📫 How to reach me **ehtiramullah786@gmail.com**
 
