@@ -77,12 +77,6 @@
 
 ## 📊 **Performance Metrics**
 
-<div align="center">
-  
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ehtiram-ullah&show_icons=true&theme=tokyonight&bg_color=1A1B27&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=00D4FF" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ehtiram-ullah&theme=tokyonight&background=1A1B27&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
-
-</div>
 
 <div align="center">
   
